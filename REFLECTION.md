@@ -1,5 +1,7 @@
 # Reflektion: Laboration 1 – Fortsätt programmera
 
+Länk till repo: https://github.com/rosa24-bth/1DV610
+
 ## 1. Att fortsätta programmera
 
 _Vilka kunskaper och färdigheter från tidigare kurser bygger du vidare på i den här uppgiften? Vad var mest utmanande? Vad vill du utveckla vidare i din programmering framöver?_
