@@ -5,12 +5,16 @@
 _Vilka kunskaper och färdigheter från tidigare kurser bygger du vidare på i den här uppgiften? Vad var mest utmanande? Vad vill du utveckla vidare i din programmering framöver?_
 
 Svar:
+Vi har ju pratat en del om kodkvalitet i kurser jag gått tidigare, även om det kanske inte varit så här renodlat fokus på det som det verkar vara här. Men det mest utmanande är väl bara att komma igång igen helt enkelt. Överlag så var instruktionerna för alla miljöer, VPN m.m. man behövde fixa med tydliga, så det har gått ganska smidigt.
+
+Eftersom det verkar vara något som kan ge verkligt mervärde när man arbetar i samma kod som team så ser jag fram emot att lära mig mer om det här.
 
 ## 2. Arbetsflödet
 
 _Hur kändes det att arbeta med Git och använda kursens plattformar?_
 
 Svar:
+Det känns helt OK. Så länge det är basic saker man gör i Git så känns det hyfsat hemvant för mig. Men jag tycker också det snabbt känns som djupt vatten med Git så fort något blivit knas eller man ska testa nya kommandon man inte använt innan.
 
 _Varför valde du GitLab eller GitHub för din kod? Vad vägde du in — till exempel integritet, att bygga en publik portfolio, eller vana? Om GitHub — länk till ditt repo:_
 
