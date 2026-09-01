@@ -14,7 +14,7 @@ rl.question("Skriv något: ", (word) => {
     if (answer.toLowerCase() === "ja") {
       console.log(`
 
-                             |       :     . |
+             |       :     . |
              | '  :      '   |
              |  .  |   '  |  |
    .--._ _...:.._ _.--. ,  ' |
